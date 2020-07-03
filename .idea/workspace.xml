@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3e2284-d67c-44a9-b01a-737398684d38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/base/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/AddToBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/CreateNewShippingAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/PaymentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/RegistrationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/PaymentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/chromedriver" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../deneme.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/test/java/BaseTest.java" beforeDir="false" />
@@ -48,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/PaymentTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="54" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="54" />
+              <caret line="12" column="54" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/RegistrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/RegisterPage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,39 +143,6 @@
               <item name="comn11Trainingtest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comn11Trainingtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="comn11Trainingtest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comn11Trainingtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="comn11Trainingtest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comn11Trainingtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="comn11Trainingtest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="comn11Trainingtest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="comn11Trainingtest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scenario" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="comn11Trainingtest" type="b2602c69:ProjectViewProjectNode" />
@@ -361,12 +316,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6051000" />
+    <option name="totallyTimeSpent" value="6263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -381,7 +336,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32810867" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -475,7 +430,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/PaymentTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -485,7 +440,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="54" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="54" />
+          <caret line="12" column="54" selection-start-line="10" selection-start-column="4" selection-end-line="12" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -495,7 +450,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/pages/RegisterPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -505,7 +460,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/n11/sample/test/scenario/RegistrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
